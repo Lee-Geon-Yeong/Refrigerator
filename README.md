@@ -38,6 +38,7 @@ https://user-images.githubusercontent.com/59759468/106287416-1a3ac480-628a-11eb-
 ## 설문조사 및 피드백
 ### 1. 1차 설문조사
 - 가족 3명, 친구 3명<br>
+
 이름 | 나이 | 사치정도 | 경제력 
 --|--|--|--
 김수정 | 55 | 검소 | 상
@@ -46,6 +47,7 @@ https://user-images.githubusercontent.com/59759468/106287416-1a3ac480-628a-11eb-
 김민섭 | 26 | 사치 | 중
 김성헌 | 26 | 중간 | 하
 Trachta Angel | 23 | 검소 | 하
+
 <br>
 결과 : <br>
 향후 과제 : <br>
