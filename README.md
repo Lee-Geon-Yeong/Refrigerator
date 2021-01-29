@@ -5,17 +5,21 @@
 ## 타 브랜드 제품 분석
 
 ## 재료 사진 및 구매목록
-![image](https://user-images.githubusercontent.com/59759468/106285336-b1524d00-6287-11eb-93c5-3c82111e4ba8.png)
-![image](https://user-images.githubusercontent.com/59759468/106285415-cb8c2b00-6287-11eb-907e-37446f785ec1.png)
-![image](https://user-images.githubusercontent.com/59759468/106285513-ee1e4400-6287-11eb-9832-79c957f352a0.png)
-![image](https://user-images.githubusercontent.com/59759468/106285462-df379180-6287-11eb-8803-8a20d96eb30d.png)
+![image](https://user-images.githubusercontent.com/59759468/106287118-ca5bfd80-6289-11eb-8a0f-cd786210b31f.png)
+![image](https://user-images.githubusercontent.com/59759468/106287194-d8118300-6289-11eb-9c6d-70246378d9f4.png)
+![image](https://user-images.githubusercontent.com/59759468/106287215-df389100-6289-11eb-9a28-7cb32d9ffe8c.png)
+![image](https://user-images.githubusercontent.com/59759468/106287236-e65f9f00-6289-11eb-96ec-283c5b756aea.png)
+
 
 ## 제품 사진
 1. 초기 외형 제작<br>
-![image](https://user-images.githubusercontent.com/59759468/106286216-bc59ad00-6288-11eb-8d96-7def0821d658.png)
+![image](https://user-images.githubusercontent.com/59759468/106287021-adbfc580-6289-11eb-9b0f-ff97543cdfe0.png)
+
 2. LED 제어 기능 추가<br>
-![image](https://user-images.githubusercontent.com/59759468/106286508-10fd2800-6289-11eb-9fa6-27f61791c7b1.png)
-![image](https://user-images.githubusercontent.com/59759468/106286591-283c1580-6289-11eb-849b-6b49fd40dd24.png)
+![image](https://user-images.githubusercontent.com/59759468/106286929-8bc64300-6289-11eb-8ebc-46e56d989a85.png)
+![image](https://user-images.githubusercontent.com/59759468/106286957-941e7e00-6289-11eb-9ef5-d45cf94e72be.png)
+https://user-images.githubusercontent.com/59759468/106287416-1a3ac480-628a-11eb-9e3d-4c77f62ef90b.mp4
+
 
 
 
