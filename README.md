@@ -12,12 +12,12 @@
 
 
 ## 제품 사진
-1. 초기 외형 제작<br>
+### 1. 초기 외형 제작<br>
 ![image](https://user-images.githubusercontent.com/59759468/106287021-adbfc580-6289-11eb-9b0f-ff97543cdfe0.png)
 
-2. LED 제어 기능 추가<br>
+### 2. LED 제어 기능 추가<br>
 ![image](https://user-images.githubusercontent.com/59759468/106286929-8bc64300-6289-11eb-8ebc-46e56d989a85.png)
-![image](https://user-images.githubusercontent.com/59759468/106286957-941e7e00-6289-11eb-9ef5-d45cf94e72be.png)
+![image](https://user-images.githubusercontent.com/59759468/106286957-941e7e00-6289-11eb-9ef5-d45cf94e72be.png)  
 https://user-images.githubusercontent.com/59759468/106287416-1a3ac480-628a-11eb-9e3d-4c77f62ef90b.mp4
 
 
@@ -36,7 +36,7 @@ https://user-images.githubusercontent.com/59759468/106287416-1a3ac480-628a-11eb-
 
 
 ## 설문조사 및 피드백
-1. 1차 설문조사
+### 1. 1차 설문조사
 - 가족 3명, 친구 3명<br>
 이름 | 나이 | 사치정도 | 경제력 
 --|--|--|--
@@ -50,7 +50,7 @@ Trachta Angel | 23 | 검소 | 하
 결과 : <br>
 향후 과제 : <br>
   
-2. 2차 설문조사
+### 2. 2차 설문조사
 
 
   
