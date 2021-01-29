@@ -3,6 +3,10 @@
 ## 프로젝트 배경
 
 ## 타 브랜드 제품 분석
+이름 | 가격 | 크기 | 온도조절범위 | 기능 
+--|--|--|--|--
+Smart Refrigerator | 7만원 | 250*250*250mm | 14℃~22℃ | LED, 온습도
+삼성 비스포크 큐브 | 96만원 | 367*440*396mm | 5℃~18℃ | 정온유지, 저소음저진동, 멀티수납, 스마트컨트롤
 
 ## 재료 사진 및 구매목록
 ![image](https://user-images.githubusercontent.com/59759468/106287118-ca5bfd80-6289-11eb-8a0f-cd786210b31f.png)
@@ -37,19 +41,20 @@
 원가 : 60000원 판매가 : 70000원
 
 ## 특성실험<br>
-0'00일 때 온도 22/습도 40<br>
+### 1. 30분동안 5분 간격으로 온도와 습도 변화량 체크
+- 0'00일 때 온도 22/습도 40<br>
 ![image](https://user-images.githubusercontent.com/59759468/106288531-823dda80-628b-11eb-8742-5c187a50d168.png)  
-5'00일 때 온도 19/습도 37<br>
+- 5'00일 때 온도 19/습도 37<br>
 ![image](https://user-images.githubusercontent.com/59759468/106288561-8bc74280-628b-11eb-9975-0807defc184b.png)  
-10'00일 때 온도 16/습도 30<br>
+- 10'00일 때 온도 16/습도 30<br>
 ![image](https://user-images.githubusercontent.com/59759468/106288600-9a155e80-628b-11eb-84be-08a6ff380808.png)  
-15'00일 때 온도 15/습도 29<br>
+- 15'00일 때 온도 15/습도 29<br>
 ![image](https://user-images.githubusercontent.com/59759468/106288639-a39ec680-628b-11eb-9034-fb293332ba2f.png)  
-20'00일 때 온도 14/습도 28<br>
+- 20'00일 때 온도 14/습도 28<br>
 ![image](https://user-images.githubusercontent.com/59759468/106288665-abf70180-628b-11eb-926a-1ad9efba7cd1.png)  
-25'00일 때 온도 14/습도 28<br>
+- 25'00일 때 온도 14/습도 28<br>
 ![image](https://user-images.githubusercontent.com/59759468/106288697-b6b19680-628b-11eb-9c0e-f0cb23cbd3af.png)  
-30'00일 때 온도 14/습도 28<br>
+- 30'00일 때 온도 14/습도 28<br>
 ![image](https://user-images.githubusercontent.com/59759468/106288697-b6b19680-628b-11eb-9c0e-f0cb23cbd3af.png)  
 
 ## 설문조사 및 피드백
